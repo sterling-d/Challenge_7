@@ -32,11 +32,16 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the data visualization application, simply clone the repository and create a new_folder to save your **etf_analyzer.ipynb** . Navigate to that folder within your terminal, and type the following :
+To use the financial database and web application, simply clone the repository and create a new_folder to save your **etf_analyzer.ipynb** . Navigate to that folder within your terminal, and type the following :
 
 ```new_folder
    jupyter lab 
 ```
+
+Upon launching the financial database and web application, you will be able to view a cumulative return DataFrame plot for PYPl.
+
+<img width="1109" alt="Screen Shot 2022-10-16 at 5 48 43 PM" src="https://user-images.githubusercontent.com/105071493/196067980-a3166901-0b1b-471a-8cf7-b80b7fa90022.png">
+
 
 ---
 
