@@ -38,7 +38,7 @@ To use the financial database and web application, simply clone the repository a
    jupyter lab 
 ```
 
-Upon launching the financial database and web application, you will be able to view a cumulative return DataFrame plot for PYPl.
+Upon launching the financial database and web application, you will be able to view a cumulative return DataFrame plot for PYPL.
 
 <img width="1109" alt="Screen Shot 2022-10-16 at 5 48 43 PM" src="https://user-images.githubusercontent.com/105071493/196067980-a3166901-0b1b-471a-8cf7-b80b7fa90022.png">
 
